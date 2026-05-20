@@ -1,0 +1,17 @@
+target/
+*.class
+*.log
+logs/
+.env
+*.env
+application-local.properties
+application-local.yml
+application-prod.properties
+application-prod.yml
+storage/
+generated-pdfs/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
