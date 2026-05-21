@@ -1,4 +1,4 @@
-package com.khaier.attendance.utils;
+package com.khaier.document.utils;
 
 public final class MobileUtils {
 

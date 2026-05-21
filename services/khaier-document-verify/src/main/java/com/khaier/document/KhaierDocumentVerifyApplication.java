@@ -1,4 +1,4 @@
-package com.khaier.attendance;
+package com.khaier.document;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

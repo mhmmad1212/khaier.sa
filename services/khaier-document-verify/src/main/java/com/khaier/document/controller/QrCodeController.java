@@ -1,8 +1,8 @@
-package com.khaier.attendance.controller;
+package com.khaier.document.controller;
 
-import com.khaier.attendance.service.ApiAuthService;
-import com.khaier.attendance.utils.CryptoUtils;
-import com.khaier.attendance.utils.MobileUtils;
+import com.khaier.document.service.ApiAuthService;
+import com.khaier.document.utils.CryptoUtils;
+import com.khaier.document.utils.MobileUtils;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.common.BitMatrix;

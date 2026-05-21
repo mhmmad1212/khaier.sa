@@ -1,6 +1,6 @@
-package com.khaier.attendance.service;
+package com.khaier.document.service;
 
-import com.khaier.attendance.utils.CryptoUtils;
+import com.khaier.document.utils.CryptoUtils;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
