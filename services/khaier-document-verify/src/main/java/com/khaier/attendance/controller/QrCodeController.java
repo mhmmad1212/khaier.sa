@@ -1,4 +1,8 @@
-package sa.khaier.verify;
+package com.khaier.attendance.controller;
+
+import com.khaier.attendance.service.ApiAuthService;
+import com.khaier.attendance.utils.CryptoUtils;
+import com.khaier.attendance.utils.MobileUtils;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.common.BitMatrix;

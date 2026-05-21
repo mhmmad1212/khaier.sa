@@ -1,4 +1,4 @@
-package sa.khaier.verify;
+package com.khaier.attendance.utils;
 
 public final class MobileUtils {
 

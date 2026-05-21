@@ -1,4 +1,4 @@
-package sa.khaier.verify;
+package com.khaier.attendance.utils;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

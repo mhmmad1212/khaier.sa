@@ -1,4 +1,4 @@
-package sa.khaier.verify;
+package com.khaier.attendance;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
